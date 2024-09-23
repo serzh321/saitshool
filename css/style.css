@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.sqr img{
+	width: 300px;
+	height: 200px;
+}
+.banner img{
+	width: 330px;
+	height: 210px;
+}
+.post p{
+	padding: 6px;
+	font-size: 15.5px;
+}
+#comment{
+	font-size: 25px;
+}
+.post{
+	padding-top: 50px;
+}
+.content_1{
+	margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
